@@ -1,0 +1,18 @@
+/*style.css*/
+
+.main
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:22px;
+color:black;
+background-color:orangered;
+text-align: center;
+
+
+}
+.sides
+{
+font-size:18px;
+font-weight: 200;
+
+}
